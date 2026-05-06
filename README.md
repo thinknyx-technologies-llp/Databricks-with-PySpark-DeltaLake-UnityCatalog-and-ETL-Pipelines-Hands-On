@@ -6,16 +6,17 @@ From simple notebook-based data exploration to enterprise-grade, cloud-native da
 
 You won't just learn theory, you'll:
 
-Navigate the Databricks platform from scratch
-Write PySpark and SQL to process real datasets
-Understand Spark architecture, execution plans, and performance tuning
-Build Delta Lake pipelines with ACID transactions and Time Travel
-Implement the Medallion Architecture (Bronze–Silver–Gold)
-Integrate Databricks with AWS S3 for external data
-Govern data using Unity Catalog
-Build and schedule orchestrated Databricks Jobs
-Visualize insights using Genie and BI Dashboards
-Complete a real-world Capstone Project end to end
+- Navigate the Databricks platform from scratch
+- Write PySpark and SQL to process real datasets
+- Understand Spark architecture, execution plans, and performance tuning
+- Build Delta Lake pipelines with ACID transactions and Time Travel
+- Implement the Medallion Architecture (Bronze–Silver–Gold)
+- Integrate Databricks with AWS S3 for external data
+- Govern data using Unity Catalog
+- Build and schedule orchestrated Databricks Jobs
+- Visualize insights using Genie and BI Dashboards
+- Complete a real-world Capstone Project end to end
+
 By the end of this course, you'll be able to design, build, optimize, and scale Databricks-based data engineering systems just like modern data teams do in real production environments.
 
 # What Makes Databricks Powerful?
